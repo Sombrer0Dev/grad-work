@@ -1,3 +1,6 @@
 [submodule "auth"]
 	path = auth
 	url = ./auth/
+[submodule "grad-protos"]
+	path = grad-protos
+	url = https://github.com/Sombrer0Dev/grad-protos
